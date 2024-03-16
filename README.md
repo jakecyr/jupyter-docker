@@ -7,3 +7,5 @@
 5. Click on the link in console to open the Jupyter server in your browser.
 
 If you need to add new packages to the environment, add them to the requirements.txt file and re-run `make run`.
+
+This should solve all of your many issues with Jupyter and Docker.
